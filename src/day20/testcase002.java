@@ -8,4 +8,6 @@ public class testcase002 {
 
     // arr the clickable
 
+    // testing the responses of the page
+
 }
